@@ -1,0 +1,4 @@
+.DS_Store
+*.log
+nfl-stream/node_modules
+nfl-stream/dist
